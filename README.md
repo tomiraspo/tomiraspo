@@ -27,10 +27,10 @@
 ---
 
 ### 📊 Mis estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HolaDonTomas&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HolaDonTomas&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tomiraspo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomiraspo&layout=compact&theme=radical)
 
 ---
 
 ### ⭐ Proyectos destacados
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HolaDonTomas&repo=HistoriasPais&theme=radical)](https://github.com/HolaDonTomas/HistoriasPais)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomiraspo&repo=HistoriasPais&theme=radical)](https://github.com/tomiraspo/HistoriasPais)
