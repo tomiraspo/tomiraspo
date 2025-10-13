@@ -37,4 +37,6 @@
 ---
 
 ### ⭐ Proyectos destacados
+
+Proyecto Full-Stack: implementación de **Clean Architecture** y DDD en .NET Core.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomiraspo&repo=Sistema-Turnos&theme=radical)](https://github.com/tomiraspo/Sistema-Turnos)
