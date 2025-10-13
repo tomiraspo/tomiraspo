@@ -22,12 +22,6 @@
 **Herramientas y plataformas:**  
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-
-### 📊 Mis estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tomiraspo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomiraspo&layout=compact&theme=radical)
 
 ---
 
