@@ -34,5 +34,5 @@
 
 ### ⭐ Proyectos destacados
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomiraspo&repo=ProyectoHistorias
-&theme=radical)](https://github.com/tomiraspo/ProyectoHistorias
+&theme=radical)]((https://github.com/tomiraspo/Sistema-Turnos)
 )
