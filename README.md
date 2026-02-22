@@ -55,11 +55,11 @@ C# · .NET Core · Clean Architecture · DDD · SQL Server · Blazor Server
 - 📚 Cursando Gestión Administrativa y de la Información
 - 🔍 Profundizando SQL y Power BI
 - 🏗 Construyendo proyectos de análisis de datos
-- 🌍 Objetivo: rol de Data Analyst en Europa
+- 🌍 Data Analyst in Europe
 
 ---
 
 ### 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom%C3%A1s-raspo-b03028214/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tomas-raspo-portfolio.vercel.app/)
