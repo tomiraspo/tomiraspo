@@ -2,8 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Developer+transitioning+to+Data+Analytics;SQL+%7C+MySQL+%7C+Power+BI+%7C+Excel;Clean+Architecture+%7C+.NET+%7C+TypeScript;Argentina+%E2%86%92+Europe&center=true&width=900&height=80)
 
-Developer con base sólida en .NET y TypeScript, actualmente en transición 
-hacia Data Analytics. Combino experiencia real construyendo sistemas complejos 
+Developer con base sólida en .NET y TypeScript, Analista Funcional . Combino experiencia real construyendo sistemas complejos 
 con el análisis de datos para generar insights que apoyen decisiones de negocio.
 
 ---
