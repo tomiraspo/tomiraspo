@@ -1,14 +1,12 @@
 # Hola, soy Tomás 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Analista+Funcional+%7C+Developer;SQL+%7C+MySQL+%7C+Power+BI+%7C+Excel;Clean+Architecture+%7C+.NET+%7C+TypeScript;Argentina+%E2%86%92+Europa&center=true&width=900&height=80)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Developer+transitioning+to+Data+Analytics;SQL+%7C+MySQL+%7C+Power+BI+%7C+Excel;Clean+Architecture+%7C+.NET+%7C+TypeScript;Argentina+%E2%86%92+Europe&center=true&width=900&height=80)
-
-Developer con base sólida en .NET y TypeScript, Analista Funcional . Combino experiencia real construyendo sistemas complejos 
+Developer con base sólida en .NET y TypeScript, Analista Funcional. Combino experiencia real construyendo sistemas complejos 
 con el análisis de datos para generar insights que apoyen decisiones de negocio.
 
 ---
 
 ### 📊 Data & Analytics
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -17,7 +15,6 @@ con el análisis de datos para generar insights que apoyen decisiones de negocio
 ---
 
 ### 🛠 Development Background
-
 **Backend:**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -38,7 +35,6 @@ con el análisis de datos para generar insights que apoyen decisiones de negocio
 ---
 
 ### 📂 Proyectos
-
 #### 📊 Data Analytics *(en construcción)*
 > Próximamente: análisis de datos reales con SQL + Power BI
 
@@ -50,7 +46,6 @@ C# · .NET Core · Clean Architecture · DDD · SQL Server · Blazor Server
 ---
 
 ### 🎯 Actualmente
-
 - 📚 Cursando Gestión Administrativa y de la Información
 - 🔍 Profundizando SQL y Power BI
 - 🏗 Construyendo proyectos de análisis de datos
@@ -59,6 +54,5 @@ C# · .NET Core · Clean Architecture · DDD · SQL Server · Blazor Server
 ---
 
 ### 📫 Contacto
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom%C3%A1s-raspo-b03028214/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tomas-raspo-portfolio.vercel.app/)
